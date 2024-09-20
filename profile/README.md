@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="240" alt="MTCLogo" src="https://github.com/user-attachments/assets/899de62c-171c-4d4c-a752-a7cc4ebd3c6f">
+  <img width="240" alt="MTCLogo" src="https://github.com/user-attachments/assets/3957171b-3421-45c0-ae22-82bbd3d5d26d">
 </p>
+
 
 <p align="center">
 <a href="https://github.com/crab-team"><img alt="Github" src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github"></a>
